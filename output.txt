@@ -1,0 +1,3299 @@
+﻿STRING 1
+abbba43.51386abbba is being processed
+
+
+Transition 1:
+- Present State: q0
+- Current input symbol: a
+- Stack Top: z0
+- Popped: epsilon
+- Pushed: z0
+- Next State: q1
+
+
+Transition 2:
+- Present State: q1
+- Current input symbol: b
+- Stack Top: b
+- Popped: epsilon
+- Pushed: b
+- Next State: q1
+
+
+Transition 3:
+- Present State: q1
+- Current input symbol: b
+- Stack Top: b
+- Popped: epsilon
+- Pushed: b
+- Next State: q1
+
+
+Transition 4:
+- Present State: q1
+- Current input symbol: b
+- Stack Top: b
+- Popped: epsilon
+- Pushed: b
+- Next State: q1
+
+
+Transition 5:
+- Present State: q1
+- Current input symbol: a
+- Stack Top: a
+- Popped: epsilon
+- Pushed: a
+- Next State: q2
+
+
+Transition 6:
+- Present State: q2
+- Current input symbol: 4
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 7:
+- Present State: q4
+- Current input symbol: 3
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 8:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 9:
+- Present State: q5
+- Current input symbol: 5
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 10:
+- Present State: q5
+- Current input symbol: 1
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 11:
+- Present State: q5
+- Current input symbol: 3
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 12:
+- Present State: q5
+- Current input symbol: 8
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 13:
+- Present State: q5
+- Current input symbol: 6
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 14:
+- Present State: q5
+- Current input symbol: a
+- Stack Top: b
+- Popped: a
+- Pushed: epsilon
+- Next State: q7
+
+
+Transition 15:
+- Present State: q7
+- Current input symbol: b
+- Stack Top: b
+- Popped: b
+- Pushed: epsilon
+- Next State: q7
+
+
+Transition 16:
+- Present State: q7
+- Current input symbol: b
+- Stack Top: b
+- Popped: b
+- Pushed: epsilon
+- Next State: q7
+
+
+Transition 17:
+- Present State: q7
+- Current input symbol: b
+- Stack Top: z0
+- Popped: b
+- Pushed: epsilon
+- Next State: q7
+
+
+Transition 18:
+- Present State: q7
+- Current input symbol: a
+- Stack Top: epsilon
+- Popped: z0
+- Pushed: epsilon
+- Next State: q8
+
+
+
+
+The string is accepted.
+
+
+STRING 2
+aa.78+27.-3.013/837.842+aa is being processed
+
+
+Transition 1:
+- Present State: q0
+- Current input symbol: a
+- Stack Top: z0
+- Popped: epsilon
+- Pushed: z0
+- Next State: q1
+
+
+Transition 2:
+- Present State: q1
+- Current input symbol: a
+- Stack Top: a
+- Popped: epsilon
+- Pushed: a
+- Next State: q2
+
+
+Transition 3:
+- Present State: q2
+- Current input symbol: .
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q3
+
+
+Transition 4:
+- Present State: q3
+- Current input symbol: 7
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 5:
+- Present State: q5
+- Current input symbol: 8
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 6:
+- Present State: q5
+- Current input symbol: +
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 7:
+- Present State: q2
+- Current input symbol: 2
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 8:
+- Present State: q4
+- Current input symbol: 7
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 9:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 10:
+- Present State: q5
+- Current input symbol: -
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 11:
+- Present State: q2
+- Current input symbol: 3
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 12:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 13:
+- Present State: q5
+- Current input symbol: 0
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 14:
+- Present State: q5
+- Current input symbol: 1
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 15:
+- Present State: q5
+- Current input symbol: 3
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 16:
+- Present State: q5
+- Current input symbol: /
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 17:
+- Present State: q2
+- Current input symbol: 8
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 18:
+- Present State: q4
+- Current input symbol: 3
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 19:
+- Present State: q4
+- Current input symbol: 7
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 20:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 21:
+- Present State: q5
+- Current input symbol: 8
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 22:
+- Present State: q5
+- Current input symbol: 4
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 23:
+- Present State: q5
+- Current input symbol: 2
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 24:
+- Present State: q5
+- Current input symbol: +
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 25:
+- Present State: q2
+- Current input symbol: a
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q9
+
+
+The string is in a trap state because Invalid transition at state q2 with input 'a'
+The PDA has failed.
+The string aa.78+27.-3.013/837.842+aa is not acceptable by the given PDA because Invalid transition at state q2 with input 'a'
+
+
+STRING 3
+aa48622.+.41*1.2/00.1/521.23-.9+.53/7.aa is being processed
+
+
+Transition 1:
+- Present State: q0
+- Current input symbol: a
+- Stack Top: z0
+- Popped: epsilon
+- Pushed: z0
+- Next State: q1
+
+
+Transition 2:
+- Present State: q1
+- Current input symbol: a
+- Stack Top: a
+- Popped: epsilon
+- Pushed: a
+- Next State: q2
+
+
+Transition 3:
+- Present State: q2
+- Current input symbol: 4
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 4:
+- Present State: q4
+- Current input symbol: 8
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 5:
+- Present State: q4
+- Current input symbol: 6
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 6:
+- Present State: q4
+- Current input symbol: 2
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 7:
+- Present State: q4
+- Current input symbol: 2
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 8:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 9:
+- Present State: q5
+- Current input symbol: +
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 10:
+- Present State: q2
+- Current input symbol: .
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q3
+
+
+Transition 11:
+- Present State: q3
+- Current input symbol: 4
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 12:
+- Present State: q5
+- Current input symbol: 1
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 13:
+- Present State: q5
+- Current input symbol: *
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 14:
+- Present State: q2
+- Current input symbol: 1
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 15:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 16:
+- Present State: q5
+- Current input symbol: 2
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 17:
+- Present State: q5
+- Current input symbol: /
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 18:
+- Present State: q2
+- Current input symbol: 0
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 19:
+- Present State: q4
+- Current input symbol: 0
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 20:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 21:
+- Present State: q5
+- Current input symbol: 1
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 22:
+- Present State: q5
+- Current input symbol: /
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 23:
+- Present State: q2
+- Current input symbol: 5
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 24:
+- Present State: q4
+- Current input symbol: 2
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 25:
+- Present State: q4
+- Current input symbol: 1
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 26:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 27:
+- Present State: q5
+- Current input symbol: 2
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 28:
+- Present State: q5
+- Current input symbol: 3
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 29:
+- Present State: q5
+- Current input symbol: -
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 30:
+- Present State: q2
+- Current input symbol: .
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q3
+
+
+Transition 31:
+- Present State: q3
+- Current input symbol: 9
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 32:
+- Present State: q5
+- Current input symbol: +
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 33:
+- Present State: q2
+- Current input symbol: .
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q3
+
+
+Transition 34:
+- Present State: q3
+- Current input symbol: 5
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 35:
+- Present State: q5
+- Current input symbol: 3
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 36:
+- Present State: q5
+- Current input symbol: /
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 37:
+- Present State: q2
+- Current input symbol: 7
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 38:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 39:
+- Present State: q5
+- Current input symbol: a
+- Stack Top: z0
+- Popped: a
+- Pushed: epsilon
+- Next State: q7
+
+
+Transition 40:
+- Present State: q7
+- Current input symbol: a
+- Stack Top: epsilon
+- Popped: z0
+- Pushed: epsilon
+- Next State: q8
+
+
+
+
+The string is accepted.
+
+
+STRING 4
+abba382.89*14.2aba is being processed
+
+
+Transition 1:
+- Present State: q0
+- Current input symbol: a
+- Stack Top: z0
+- Popped: epsilon
+- Pushed: z0
+- Next State: q1
+
+
+Transition 2:
+- Present State: q1
+- Current input symbol: b
+- Stack Top: b
+- Popped: epsilon
+- Pushed: b
+- Next State: q1
+
+
+Transition 3:
+- Present State: q1
+- Current input symbol: b
+- Stack Top: b
+- Popped: epsilon
+- Pushed: b
+- Next State: q1
+
+
+Transition 4:
+- Present State: q1
+- Current input symbol: a
+- Stack Top: a
+- Popped: epsilon
+- Pushed: a
+- Next State: q2
+
+
+Transition 5:
+- Present State: q2
+- Current input symbol: 3
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 6:
+- Present State: q4
+- Current input symbol: 8
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 7:
+- Present State: q4
+- Current input symbol: 2
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 8:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 9:
+- Present State: q5
+- Current input symbol: 8
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 10:
+- Present State: q5
+- Current input symbol: 9
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 11:
+- Present State: q5
+- Current input symbol: *
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 12:
+- Present State: q2
+- Current input symbol: 1
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 13:
+- Present State: q4
+- Current input symbol: 4
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 14:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 15:
+- Present State: q5
+- Current input symbol: 2
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 16:
+- Present State: q5
+- Current input symbol: a
+- Stack Top: b
+- Popped: a
+- Pushed: epsilon
+- Next State: q7
+
+
+Transition 17:
+- Present State: q7
+- Current input symbol: b
+- Stack Top: b
+- Popped: b
+- Pushed: epsilon
+- Next State: q7
+
+
+The PDA has failed.
+The string abba382.89*14.2aba is not acceptable by the given PDA because the stack top: (b) is mismatched with the input symbol: a
+
+
+STRING 5
+aba4.91-.*17.9aba is being processed
+
+
+Transition 1:
+- Present State: q0
+- Current input symbol: a
+- Stack Top: z0
+- Popped: epsilon
+- Pushed: z0
+- Next State: q1
+
+
+Transition 2:
+- Present State: q1
+- Current input symbol: b
+- Stack Top: b
+- Popped: epsilon
+- Pushed: b
+- Next State: q1
+
+
+Transition 3:
+- Present State: q1
+- Current input symbol: a
+- Stack Top: a
+- Popped: epsilon
+- Pushed: a
+- Next State: q2
+
+
+Transition 4:
+- Present State: q2
+- Current input symbol: 4
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 5:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 6:
+- Present State: q5
+- Current input symbol: 9
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 7:
+- Present State: q5
+- Current input symbol: 1
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 8:
+- Present State: q5
+- Current input symbol: -
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 9:
+- Present State: q2
+- Current input symbol: .
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q3
+
+
+Transition 10:
+- Present State: q3
+- Current input symbol: *
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q9
+
+
+The string is in a trap state because Invalid transition at state q3 with input '1'
+The PDA has failed.
+The string aba4.91-.*17.9aba is not acceptable by the given PDA because Invalid transition at state q3 with input '1'
+
+
+STRING 6
+aa44.88.6+3.208aa is being processed
+
+
+Transition 1:
+- Present State: q0
+- Current input symbol: a
+- Stack Top: z0
+- Popped: epsilon
+- Pushed: z0
+- Next State: q1
+
+
+Transition 2:
+- Present State: q1
+- Current input symbol: a
+- Stack Top: a
+- Popped: epsilon
+- Pushed: a
+- Next State: q2
+
+
+Transition 3:
+- Present State: q2
+- Current input symbol: 4
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 4:
+- Present State: q4
+- Current input symbol: 4
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 5:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 6:
+- Present State: q5
+- Current input symbol: 8
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 7:
+- Present State: q5
+- Current input symbol: 8
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 8:
+- Present State: q5
+- Current input symbol: .
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q9
+
+
+The string is in a trap state because Invalid transition at state q5 with input '6'
+The PDA has failed.
+The string aa44.88.6+3.208aa is not acceptable by the given PDA because Invalid transition at state q5 with input '6'
+
+
+STRING 7
+aba(1.2+(3.5-.9)/19).3aba is being processed
+
+
+Transition 1:
+- Present State: q0
+- Current input symbol: a
+- Stack Top: z0
+- Popped: epsilon
+- Pushed: z0
+- Next State: q1
+
+
+Transition 2:
+- Present State: q1
+- Current input symbol: b
+- Stack Top: b
+- Popped: epsilon
+- Pushed: b
+- Next State: q1
+
+
+Transition 3:
+- Present State: q1
+- Current input symbol: a
+- Stack Top: a
+- Popped: epsilon
+- Pushed: a
+- Next State: q2
+
+
+Transition 4:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 5:
+- Present State: q2
+- Current input symbol: 1
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 6:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 7:
+- Present State: q5
+- Current input symbol: 2
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 8:
+- Present State: q5
+- Current input symbol: +
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 9:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 10:
+- Present State: q2
+- Current input symbol: 3
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 11:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 12:
+- Present State: q5
+- Current input symbol: 5
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 13:
+- Present State: q5
+- Current input symbol: -
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 14:
+- Present State: q2
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q3
+
+
+Transition 15:
+- Present State: q3
+- Current input symbol: 9
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 16:
+- Present State: q5
+- Current input symbol: )
+- Stack Top: (
+- Popped: (
+- Pushed: epsilon
+- Next State: q6
+
+
+Transition 17:
+- Present State: q6
+- Current input symbol: /
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 18:
+- Present State: q2
+- Current input symbol: 1
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 19:
+- Present State: q4
+- Current input symbol: 9
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 20:
+- Present State: q4
+- Current input symbol: )
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q9
+
+
+The string is in a trap state because Invalid transition at state q4 with input '.'
+The PDA has failed.
+The string aba(1.2+(3.5-.9)/19).3aba is not acceptable by the given PDA because Invalid transition at state q4 with input '.'
+
+
+STRING 8
+abba(.4)64abba is being processed
+
+
+Transition 1:
+- Present State: q0
+- Current input symbol: a
+- Stack Top: z0
+- Popped: epsilon
+- Pushed: z0
+- Next State: q1
+
+
+Transition 2:
+- Present State: q1
+- Current input symbol: b
+- Stack Top: b
+- Popped: epsilon
+- Pushed: b
+- Next State: q1
+
+
+Transition 3:
+- Present State: q1
+- Current input symbol: b
+- Stack Top: b
+- Popped: epsilon
+- Pushed: b
+- Next State: q1
+
+
+Transition 4:
+- Present State: q1
+- Current input symbol: a
+- Stack Top: a
+- Popped: epsilon
+- Pushed: a
+- Next State: q2
+
+
+Transition 5:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 6:
+- Present State: q2
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q3
+
+
+Transition 7:
+- Present State: q3
+- Current input symbol: 4
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 8:
+- Present State: q5
+- Current input symbol: )
+- Stack Top: a
+- Popped: (
+- Pushed: epsilon
+- Next State: q6
+
+
+Transition 9:
+- Present State: q6
+- Current input symbol: 6
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q9
+
+
+The string is in a trap state because Invalid transition at state q6 with input '4'
+The PDA has failed.
+The string abba(.4)64abba is not acceptable by the given PDA because Invalid transition at state q6 with input '4'
+
+
+STRING 9
+aba((824.23+(9.22-00.0)*21.2))+((.2/7.))abba is being processed
+
+
+Transition 1:
+- Present State: q0
+- Current input symbol: a
+- Stack Top: z0
+- Popped: epsilon
+- Pushed: z0
+- Next State: q1
+
+
+Transition 2:
+- Present State: q1
+- Current input symbol: b
+- Stack Top: b
+- Popped: epsilon
+- Pushed: b
+- Next State: q1
+
+
+Transition 3:
+- Present State: q1
+- Current input symbol: a
+- Stack Top: a
+- Popped: epsilon
+- Pushed: a
+- Next State: q2
+
+
+Transition 4:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 5:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 6:
+- Present State: q2
+- Current input symbol: 8
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 7:
+- Present State: q4
+- Current input symbol: 2
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 8:
+- Present State: q4
+- Current input symbol: 4
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 9:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 10:
+- Present State: q5
+- Current input symbol: 2
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 11:
+- Present State: q5
+- Current input symbol: 3
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 12:
+- Present State: q5
+- Current input symbol: +
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 13:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 14:
+- Present State: q2
+- Current input symbol: 9
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 15:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 16:
+- Present State: q5
+- Current input symbol: 2
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 17:
+- Present State: q5
+- Current input symbol: 2
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 18:
+- Present State: q5
+- Current input symbol: -
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 19:
+- Present State: q2
+- Current input symbol: 0
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 20:
+- Present State: q4
+- Current input symbol: 0
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 21:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 22:
+- Present State: q5
+- Current input symbol: 0
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 23:
+- Present State: q5
+- Current input symbol: )
+- Stack Top: (
+- Popped: (
+- Pushed: epsilon
+- Next State: q6
+
+
+Transition 24:
+- Present State: q6
+- Current input symbol: *
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 25:
+- Present State: q2
+- Current input symbol: 2
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 26:
+- Present State: q4
+- Current input symbol: 1
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 27:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 28:
+- Present State: q5
+- Current input symbol: 2
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 29:
+- Present State: q5
+- Current input symbol: )
+- Stack Top: (
+- Popped: (
+- Pushed: epsilon
+- Next State: q6
+
+
+Transition 30:
+- Present State: q6
+- Current input symbol: )
+- Stack Top: a
+- Popped: (
+- Pushed: epsilon
+- Next State: q6
+
+
+Transition 31:
+- Present State: q6
+- Current input symbol: +
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 32:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 33:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 34:
+- Present State: q2
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q3
+
+
+Transition 35:
+- Present State: q3
+- Current input symbol: 2
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 36:
+- Present State: q5
+- Current input symbol: /
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 37:
+- Present State: q2
+- Current input symbol: 7
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 38:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 39:
+- Present State: q5
+- Current input symbol: )
+- Stack Top: (
+- Popped: (
+- Pushed: epsilon
+- Next State: q6
+
+
+Transition 40:
+- Present State: q6
+- Current input symbol: )
+- Stack Top: a
+- Popped: (
+- Pushed: epsilon
+- Next State: q6
+
+
+Transition 41:
+- Present State: q6
+- Current input symbol: a
+- Stack Top: b
+- Popped: a
+- Pushed: epsilon
+- Next State: q7
+
+
+Transition 42:
+- Present State: q7
+- Current input symbol: b
+- Stack Top: z0
+- Popped: b
+- Pushed: epsilon
+- Next State: q7
+
+
+Transition 43:
+- Present State: q7
+- Current input symbol: b
+- Stack Top: z0
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q8
+
+
+The PDA has failed.
+The string aba((824.23+(9.22-00.0)*21.2))+((.2/7.))abba is not acceptable by the given PDA because the stack is not empty.
+
+
+STRING 10
+aba(())aba is being processed
+
+
+Transition 1:
+- Present State: q0
+- Current input symbol: a
+- Stack Top: z0
+- Popped: epsilon
+- Pushed: z0
+- Next State: q1
+
+
+Transition 2:
+- Present State: q1
+- Current input symbol: b
+- Stack Top: b
+- Popped: epsilon
+- Pushed: b
+- Next State: q1
+
+
+Transition 3:
+- Present State: q1
+- Current input symbol: a
+- Stack Top: a
+- Popped: epsilon
+- Pushed: a
+- Next State: q2
+
+
+Transition 4:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 5:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 6:
+- Present State: q2
+- Current input symbol: )
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q9
+
+
+The string is in a trap state because Invalid transition at state q2 with input ')'
+The PDA has failed.
+The string aba(())aba is not acceptable by the given PDA because Invalid transition at state q2 with input ')'
+
+
+STRING 11
+abba((14.252+(692.211*(.39+492.1))/49.235)abba is being processed
+
+
+Transition 1:
+- Present State: q0
+- Current input symbol: a
+- Stack Top: z0
+- Popped: epsilon
+- Pushed: z0
+- Next State: q1
+
+
+Transition 2:
+- Present State: q1
+- Current input symbol: b
+- Stack Top: b
+- Popped: epsilon
+- Pushed: b
+- Next State: q1
+
+
+Transition 3:
+- Present State: q1
+- Current input symbol: b
+- Stack Top: b
+- Popped: epsilon
+- Pushed: b
+- Next State: q1
+
+
+Transition 4:
+- Present State: q1
+- Current input symbol: a
+- Stack Top: a
+- Popped: epsilon
+- Pushed: a
+- Next State: q2
+
+
+Transition 5:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 6:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 7:
+- Present State: q2
+- Current input symbol: 1
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 8:
+- Present State: q4
+- Current input symbol: 4
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 9:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 10:
+- Present State: q5
+- Current input symbol: 2
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 11:
+- Present State: q5
+- Current input symbol: 5
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 12:
+- Present State: q5
+- Current input symbol: 2
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 13:
+- Present State: q5
+- Current input symbol: +
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 14:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 15:
+- Present State: q2
+- Current input symbol: 6
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 16:
+- Present State: q4
+- Current input symbol: 9
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 17:
+- Present State: q4
+- Current input symbol: 2
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 18:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 19:
+- Present State: q5
+- Current input symbol: 2
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 20:
+- Present State: q5
+- Current input symbol: 1
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 21:
+- Present State: q5
+- Current input symbol: 1
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 22:
+- Present State: q5
+- Current input symbol: *
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 23:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 24:
+- Present State: q2
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q3
+
+
+Transition 25:
+- Present State: q3
+- Current input symbol: 3
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 26:
+- Present State: q5
+- Current input symbol: 9
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 27:
+- Present State: q5
+- Current input symbol: +
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 28:
+- Present State: q2
+- Current input symbol: 4
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 29:
+- Present State: q4
+- Current input symbol: 9
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 30:
+- Present State: q4
+- Current input symbol: 2
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 31:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 32:
+- Present State: q5
+- Current input symbol: 1
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 33:
+- Present State: q5
+- Current input symbol: )
+- Stack Top: (
+- Popped: (
+- Pushed: epsilon
+- Next State: q6
+
+
+Transition 34:
+- Present State: q6
+- Current input symbol: )
+- Stack Top: (
+- Popped: (
+- Pushed: epsilon
+- Next State: q6
+
+
+Transition 35:
+- Present State: q6
+- Current input symbol: /
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 36:
+- Present State: q2
+- Current input symbol: 4
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 37:
+- Present State: q4
+- Current input symbol: 9
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 38:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 39:
+- Present State: q5
+- Current input symbol: 2
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 40:
+- Present State: q5
+- Current input symbol: 3
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 41:
+- Present State: q5
+- Current input symbol: 5
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 42:
+- Present State: q5
+- Current input symbol: )
+- Stack Top: (
+- Popped: (
+- Pushed: epsilon
+- Next State: q6
+
+
+Transition 43:
+- Present State: q6
+- Current input symbol: a
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q7
+
+
+Transition 44:
+- Present State: q7
+- Current input symbol: b
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q8
+
+
+The PDA has failed.
+The string abba((14.252+(692.211*(.39+492.1))/49.235)abba is not acceptable by the given PDA because the stack is not empty.
+
+
+STRING 12
+abba+6.5abba is being processed
+
+
+Transition 1:
+- Present State: q0
+- Current input symbol: a
+- Stack Top: z0
+- Popped: epsilon
+- Pushed: z0
+- Next State: q1
+
+
+Transition 2:
+- Present State: q1
+- Current input symbol: b
+- Stack Top: b
+- Popped: epsilon
+- Pushed: b
+- Next State: q1
+
+
+Transition 3:
+- Present State: q1
+- Current input symbol: b
+- Stack Top: b
+- Popped: epsilon
+- Pushed: b
+- Next State: q1
+
+
+Transition 4:
+- Present State: q1
+- Current input symbol: a
+- Stack Top: a
+- Popped: epsilon
+- Pushed: a
+- Next State: q2
+
+
+Transition 5:
+- Present State: q2
+- Current input symbol: +
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q9
+
+
+The string is in a trap state because Invalid transition at state q2 with input '6'
+The PDA has failed.
+The string abba+6.5abba is not acceptable by the given PDA because Invalid transition at state q2 with input '6'
+
+
+STRING 13
+aa26.0*(.87/((4.+.2)/(23.1)-2.9)+6.)/(((823.*.333-57.*8.0)/.33))+.76aa is being processed
+
+
+Transition 1:
+- Present State: q0
+- Current input symbol: a
+- Stack Top: z0
+- Popped: epsilon
+- Pushed: z0
+- Next State: q1
+
+
+Transition 2:
+- Present State: q1
+- Current input symbol: a
+- Stack Top: a
+- Popped: epsilon
+- Pushed: a
+- Next State: q2
+
+
+Transition 3:
+- Present State: q2
+- Current input symbol: 2
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 4:
+- Present State: q4
+- Current input symbol: 6
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 5:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 6:
+- Present State: q5
+- Current input symbol: 0
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 7:
+- Present State: q5
+- Current input symbol: *
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 8:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 9:
+- Present State: q2
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q3
+
+
+Transition 10:
+- Present State: q3
+- Current input symbol: 8
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 11:
+- Present State: q5
+- Current input symbol: 7
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 12:
+- Present State: q5
+- Current input symbol: /
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 13:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 14:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 15:
+- Present State: q2
+- Current input symbol: 4
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 16:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 17:
+- Present State: q5
+- Current input symbol: +
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 18:
+- Present State: q2
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q3
+
+
+Transition 19:
+- Present State: q3
+- Current input symbol: 2
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 20:
+- Present State: q5
+- Current input symbol: )
+- Stack Top: (
+- Popped: (
+- Pushed: epsilon
+- Next State: q6
+
+
+Transition 21:
+- Present State: q6
+- Current input symbol: /
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 22:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 23:
+- Present State: q2
+- Current input symbol: 2
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 24:
+- Present State: q4
+- Current input symbol: 3
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 25:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 26:
+- Present State: q5
+- Current input symbol: 1
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 27:
+- Present State: q5
+- Current input symbol: )
+- Stack Top: (
+- Popped: (
+- Pushed: epsilon
+- Next State: q6
+
+
+Transition 28:
+- Present State: q6
+- Current input symbol: -
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 29:
+- Present State: q2
+- Current input symbol: 2
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 30:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 31:
+- Present State: q5
+- Current input symbol: 9
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 32:
+- Present State: q5
+- Current input symbol: )
+- Stack Top: (
+- Popped: (
+- Pushed: epsilon
+- Next State: q6
+
+
+Transition 33:
+- Present State: q6
+- Current input symbol: +
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 34:
+- Present State: q2
+- Current input symbol: 6
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 35:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 36:
+- Present State: q5
+- Current input symbol: )
+- Stack Top: a
+- Popped: (
+- Pushed: epsilon
+- Next State: q6
+
+
+Transition 37:
+- Present State: q6
+- Current input symbol: /
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 38:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 39:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 40:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 41:
+- Present State: q2
+- Current input symbol: 8
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 42:
+- Present State: q4
+- Current input symbol: 2
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 43:
+- Present State: q4
+- Current input symbol: 3
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 44:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 45:
+- Present State: q5
+- Current input symbol: *
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 46:
+- Present State: q2
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q3
+
+
+Transition 47:
+- Present State: q3
+- Current input symbol: 3
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 48:
+- Present State: q5
+- Current input symbol: 3
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 49:
+- Present State: q5
+- Current input symbol: 3
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 50:
+- Present State: q5
+- Current input symbol: -
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 51:
+- Present State: q2
+- Current input symbol: 5
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 52:
+- Present State: q4
+- Current input symbol: 7
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 53:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 54:
+- Present State: q5
+- Current input symbol: *
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 55:
+- Present State: q2
+- Current input symbol: 8
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 56:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 57:
+- Present State: q5
+- Current input symbol: 0
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 58:
+- Present State: q5
+- Current input symbol: )
+- Stack Top: (
+- Popped: (
+- Pushed: epsilon
+- Next State: q6
+
+
+Transition 59:
+- Present State: q6
+- Current input symbol: /
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 60:
+- Present State: q2
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q3
+
+
+Transition 61:
+- Present State: q3
+- Current input symbol: 3
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 62:
+- Present State: q5
+- Current input symbol: 3
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 63:
+- Present State: q5
+- Current input symbol: )
+- Stack Top: (
+- Popped: (
+- Pushed: epsilon
+- Next State: q6
+
+
+Transition 64:
+- Present State: q6
+- Current input symbol: )
+- Stack Top: a
+- Popped: (
+- Pushed: epsilon
+- Next State: q6
+
+
+Transition 65:
+- Present State: q6
+- Current input symbol: +
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 66:
+- Present State: q2
+- Current input symbol: .
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q3
+
+
+Transition 67:
+- Present State: q3
+- Current input symbol: 7
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 68:
+- Present State: q5
+- Current input symbol: 6
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 69:
+- Present State: q5
+- Current input symbol: a
+- Stack Top: z0
+- Popped: a
+- Pushed: epsilon
+- Next State: q7
+
+
+Transition 70:
+- Present State: q7
+- Current input symbol: a
+- Stack Top: epsilon
+- Popped: z0
+- Pushed: epsilon
+- Next State: q8
+
+
+
+
+The string is accepted.
+
+
+STRING 14
+
+
+abba.0*(32.922+.7-*9.))abba is being processed
+
+
+Transition 1:
+- Present State: q0
+- Current input symbol: a
+- Stack Top: z0
+- Popped: epsilon
+- Pushed: z0
+- Next State: q1
+
+
+Transition 2:
+- Present State: q1
+- Current input symbol: b
+- Stack Top: b
+- Popped: epsilon
+- Pushed: b
+- Next State: q1
+
+
+Transition 3:
+- Present State: q1
+- Current input symbol: b
+- Stack Top: b
+- Popped: epsilon
+- Pushed: b
+- Next State: q1
+
+
+Transition 4:
+- Present State: q1
+- Current input symbol: a
+- Stack Top: a
+- Popped: epsilon
+- Pushed: a
+- Next State: q2
+
+
+Transition 5:
+- Present State: q2
+- Current input symbol: .
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q3
+
+
+Transition 6:
+- Present State: q3
+- Current input symbol: 0
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 7:
+- Present State: q5
+- Current input symbol: *
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 8:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 9:
+- Present State: q2
+- Current input symbol: 3
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 10:
+- Present State: q4
+- Current input symbol: 2
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 11:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 12:
+- Present State: q5
+- Current input symbol: 9
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 13:
+- Present State: q5
+- Current input symbol: 2
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 14:
+- Present State: q5
+- Current input symbol: 2
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 15:
+- Present State: q5
+- Current input symbol: +
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 16:
+- Present State: q2
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q3
+
+
+Transition 17:
+- Present State: q3
+- Current input symbol: 7
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 18:
+- Present State: q5
+- Current input symbol: -
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 19:
+- Present State: q2
+- Current input symbol: *
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q9
+
+
+The string is in a trap state because Invalid transition at state q2 with input '9'
+The PDA has failed.
+The string abba.0*(32.922+.7-*9.))abba is not acceptable by the given PDA because Invalid transition at state q2 with input '9'
+
+
+STRING 15
+aba(4.+(.8-9.))/2.)*3.4+(5.21/34.2aba is being processed
+
+
+Transition 1:
+- Present State: q0
+- Current input symbol: a
+- Stack Top: z0
+- Popped: epsilon
+- Pushed: z0
+- Next State: q1
+
+
+Transition 2:
+- Present State: q1
+- Current input symbol: b
+- Stack Top: b
+- Popped: epsilon
+- Pushed: b
+- Next State: q1
+
+
+Transition 3:
+- Present State: q1
+- Current input symbol: a
+- Stack Top: a
+- Popped: epsilon
+- Pushed: a
+- Next State: q2
+
+
+Transition 4:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 5:
+- Present State: q2
+- Current input symbol: 4
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 6:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 7:
+- Present State: q5
+- Current input symbol: +
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 8:
+- Present State: q2
+- Current input symbol: (
+- Stack Top: (
+- Popped: epsilon
+- Pushed: (
+- Next State: q2
+
+
+Transition 9:
+- Present State: q2
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q3
+
+
+Transition 10:
+- Present State: q3
+- Current input symbol: 8
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 11:
+- Present State: q5
+- Current input symbol: -
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 12:
+- Present State: q2
+- Current input symbol: 9
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 13:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: (
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+Transition 14:
+- Present State: q5
+- Current input symbol: )
+- Stack Top: (
+- Popped: (
+- Pushed: epsilon
+- Next State: q6
+
+
+Transition 15:
+- Present State: q6
+- Current input symbol: )
+- Stack Top: a
+- Popped: (
+- Pushed: epsilon
+- Next State: q6
+
+
+Transition 16:
+- Present State: q6
+- Current input symbol: /
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q2
+
+
+Transition 17:
+- Present State: q2
+- Current input symbol: 2
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q4
+
+
+Transition 18:
+- Present State: q4
+- Current input symbol: .
+- Stack Top: a
+- Popped: epsilon
+- Pushed: epsilon
+- Next State: q5
+
+
+The PDA has failed.
+The string aba(4.+(.8-9.))/2.)*3.4+(5.21/34.2aba is not acceptable by the given PDA because the stack top (a) is mismatched with the input symbol: )
