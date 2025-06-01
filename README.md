@@ -7,7 +7,7 @@ A Python-based PDA that simulates transitions through a complex grammar of input
 ## Tech: 
 Python, Stack Simulation
 ## Features:
-Manual state transitions through q0–q9
-Stack push/pop logic with custom rules
-Trap state handling and detailed failure reasoning
+Manual state transitions through q0–q9,
+Stack push/pop logic with custom rules,
+Trap state handling and detailed failure reasoning,
 Accepts expressions like aab(3.14)+aab and rejects invalid ones
